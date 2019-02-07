@@ -1,12 +1,1 @@
 @import url("reset.css");
-
-head body {
-  font-family: arial, verdana, sans-serif;
-}
-.infos{
-  float:right;
-}
-.photo{
-  float:left;
-  margin: 0 20 0 0
-}
