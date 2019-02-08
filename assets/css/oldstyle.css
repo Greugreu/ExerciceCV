@@ -1,0 +1,27 @@
+@import url("reset.css");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu');
+/*font-family: 'Open Sans', sans-serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+main{
+  font-family: 'Ubuntu', sans-serif;
+}
+header{
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  margin-left: 45%;
+}
+#experience{
+  margin-bottom: 15px;
+  border-bottom: 2px;
+  padding: 25px;
+  background-color: pink;
+  position: absolute;
+  float: left;
+}
+article#etudes{
+  background-color: orange;
+}
+aside{
+  float:right;
+  background: #dcdee2;
+}
